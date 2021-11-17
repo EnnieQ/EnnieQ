@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EnnieQ
+- 👀 I’m interested in Web desgin 
+- 🌱 I’m currently learning HTML, CSS, JQUERY
+- 💞️ I’m looking to collaborate on frontend and backend web designing
+- 📫 How to reach me: email: quadrieni@gmail.com
